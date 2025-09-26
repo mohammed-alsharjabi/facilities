@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "767212486173",
+    "project_id": "facilities-d4666",
+    "storage_bucket": "facilities-d4666.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767212486173:android:d7b68010aa76649fe090f4",
+        "android_client_info": {
+          "package_name": "com.example.facilities"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjrfbana5Oj4HryWqW9sVUNxeedJ_wWhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
